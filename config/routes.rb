@@ -1,5 +1,4 @@
 NumbaWanBachela::Application.routes.draw do
-  get "pages/welcome"
 
   get "pages/home"
 
